@@ -2510,7 +2510,7 @@
                 "authenticationType": "noAuth"
             },
             "mapper": {
-                "url": "https://chat.googleapis.com/v1/spaces/AAQAvd9JU8g/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=HNIkD2Yu638kHZU5FxQHmVQ6CJKI1fexdsEI5oPDVrU",
+                "url": "< Insert Google Chat AI Lead Intake Webhook Here >",
                 "method": "post",
                 "contentType": "json",
                 "inputMethod": "jsonString",
