@@ -437,19 +437,7 @@ Instead of using AI only as a chatbot, this build shows how AI can be embedded i
 
 ## License
 
-Add the license that fits your repo here.
-
-Example:
-
-```text
 MIT License
-```
-
-Or:
-
-```text
-This project is provided for educational and demonstration purposes. Please review and adapt it before using it in production.
-```
 
 ---
 
